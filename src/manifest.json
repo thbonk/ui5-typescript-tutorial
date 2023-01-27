@@ -38,6 +38,7 @@
 				"sap.ui.core": {},
 				"sap.ui.layout": {},
 				"sap.ui.unified": {},
+				"sap.f": {},
 				"sap.m": {}
 			}
 		},
